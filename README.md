@@ -1,0 +1,1 @@
+# ShaneSpace.Playground.DotNetCore
