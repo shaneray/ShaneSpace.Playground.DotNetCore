@@ -63,9 +63,12 @@ namespace ShaneSpace.Playground.DonNetCore
                 //config
                 //  .SetLoadBabel(false)
                 //  .AddScriptWithoutTransform("~/Scripts/bundle.server.js");
+            }).UseDefaultFiles().UseStaticFiles().UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
-
-            app.UseDefaultFiles().UseStaticFiles().UseMvc();
         }
     }
 }
