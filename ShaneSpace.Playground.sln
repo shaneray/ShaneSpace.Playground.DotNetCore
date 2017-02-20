@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaneSpace.Playground.Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShaneSpace.Playground.DotNetReact", "src\ShaneSpace.Playground.DotNetReact\ShaneSpace.Playground.DotNetReact.csproj", "{ABD36C50-50DE-4778-9C92-46EC436D2880}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShaneSpace.Playground.DotNetAngular", "src\ShaneSpace.Playground.DotNetAngular\ShaneSpace.Playground.DotNetAngular.csproj", "{90F2E494-A9A1-42D6-8E67-1735C14A3691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,18 @@ Global
 		{ABD36C50-50DE-4778-9C92-46EC436D2880}.Release|x64.Build.0 = Release|x64
 		{ABD36C50-50DE-4778-9C92-46EC436D2880}.Release|x86.ActiveCfg = Release|x86
 		{ABD36C50-50DE-4778-9C92-46EC436D2880}.Release|x86.Build.0 = Release|x86
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Debug|x64.ActiveCfg = Debug|x64
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Debug|x64.Build.0 = Debug|x64
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Debug|x86.ActiveCfg = Debug|x86
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Debug|x86.Build.0 = Debug|x86
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Release|x64.ActiveCfg = Release|x64
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Release|x64.Build.0 = Release|x64
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Release|x86.ActiveCfg = Release|x86
+		{90F2E494-A9A1-42D6-8E67-1735C14A3691}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
